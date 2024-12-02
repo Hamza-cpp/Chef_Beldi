@@ -1,0 +1,7 @@
+.venv*/
+.files/
+.chainlit/
+chainlit*
+.env
+.vscode/
+**/__pycache__/

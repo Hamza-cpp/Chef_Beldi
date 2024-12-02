@@ -1,0 +1,10 @@
+chainlit==1.3.2
+pydantic==2.10.1
+langchain==0.3.7
+langgraph-0.2.53
+langchain-community-0.3.7
+langchain-groq-0.2.1
+neo4j==5.27.0
+spoonacular==3.0
+pandas==2.2.3
+ipython==8.30.0
